@@ -2,4 +2,3 @@ gitの練習をしていきます。2nd time desk
 Basic workflow
 Git add
 Git commit
-Git rm
